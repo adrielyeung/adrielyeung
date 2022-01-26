@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Webapp / Android apps + Python web scraping / machine learning
 - 🌱 I’m currently learning C# / Android apps
 - 💞️ I’m looking to collaborate on anything with the above!
-- 📫 How to reach me: Make an issue in one of my repos with your message :P
+- 📫 How to reach me: email at adrielyeung@gmail.com
 
 <!---
 adrielyeung/adrielyeung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
