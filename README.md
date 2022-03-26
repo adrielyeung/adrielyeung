@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrielyeung
 - 👀 I’m interested in Java Webapp / Android apps + Python web scraping / machine learning
-- 🌱 I’m currently learning C# / Android apps
+- 🌱 I’m currently learning React.JS!
 - 💞️ I’m looking to collaborate on anything with the above!
 - 📫 How to reach me: email at adrielyeung@gmail.com
 
